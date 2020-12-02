@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: servlet-api.jar c3p0-0.9.1.2.jar jstl.jar servlet-api.jar st
+ andard.jar mysql-connector-java-5.1.46.jar
+
